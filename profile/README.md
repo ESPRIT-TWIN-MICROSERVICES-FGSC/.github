@@ -15,7 +15,7 @@ A team of esprit students developing microservices for a project implementing an
   
 ## Tech Stack
 
-**Client:** Angular, NgRx, Angular Material, RsocketClient
+**Client:** Angular, RxJs, NgRx, Angular Material, RsocketClient
 
 **Server:** Spring, Zuul, Eureka, MongoDB (reactive), Flux, RSocketServer 
 
