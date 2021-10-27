@@ -1,6 +1,8 @@
 # ESPRIT-FGSC 
 ## MicroServices Spring Boot with docker
 A team of esprit students developing microservices for a project implementing an Odoo clone.
+## [@Using swagger for documentation](https://fgsc-gateway.herokuapp.com/swagger-ui.html#/)
+
 ## Authors
 
 - [@firasbelhiba](https://www.github.com/firasbelhiba)
@@ -14,6 +16,7 @@ A team of esprit students developing microservices for a project implementing an
 **Client Side:** Angular 12 , RxJs, NgRx, NgPrime, RsocketClient
 
 **Server Side:** Spring, Zuul, Eureka, MongoDB (reactive), Flux, RSocketServer ,Nodejs
+
 ![This is an image](https://cdn-images-1.medium.com/max/800/1*oxaA7PahX1-zo956FYLHFA.jpeg)
 
   
@@ -32,7 +35,7 @@ Our project is for Human Resource Management,it  contains 12 microservices with 
 9. Claim microservice
 10. Department microservice
 11. Notification microservice
-10. Client satisfaction microservice
+12. Client satisfaction microservice
 
 ###### Description:
 
@@ -48,3 +51,8 @@ Our project is for Human Resource Management,it  contains 12 microservices with 
 - Department microservice :manage departements
 - Notification microservice :manage notification for admin
 - Client satisfaction :manage clients satisfaction
+###### Sonar Cloud:
+![This is an image](![image](https://user-images.githubusercontent.com/61046136/139145915-e032588d-8e67-4d86-b963-61e009bb1e29.png))
+###### Github actions:
+![This is an image](![image](![image](https://user-images.githubusercontent.com/61046136/139146078-7a83dba1-5242-4637-9a85-96f603e98f98.png))
+
