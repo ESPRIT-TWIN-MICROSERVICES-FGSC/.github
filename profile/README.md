@@ -1,6 +1,5 @@
-# ESPRIT-FGSC 
 
-A team of esprit students developing microservices for a project implementing an Odoo clone.
+## MicroServices Spring Boot with docker
 
 ## Authors
 
@@ -12,41 +11,40 @@ A team of esprit students developing microservices for a project implementing an
   
 ## Tech Stack
 
-**Client:** Angular 12 , RxJs, NgRx, NgPrime, RsocketClient
+**Client Side:** Angular 12 , RxJs, NgRx, NgPrime, RsocketClient
 
-**Server:** Spring, Zuul, Eureka, MongoDB (reactive), Flux, RSocketServer ,Nodejs
-<img src="https://cdn-images-1.medium.com/max/800/1*oxaA7PahX1-zo956FYLHFA.jpeg"/>
+**Server Side:** Spring, Zuul, Eureka, MongoDB (reactive), Flux, RSocketServer ,Nodejs
+![This is an image](https://cdn-images-1.medium.com/max/800/1*oxaA7PahX1-zo956FYLHFA.jpeg)
+
   
 ## Features
 
-Our project is for human resource management,it  contains 12 microservices with Zuul gateway and an Eureka server our microservices are in one container docker and they are using api from each other .
+Our project is for Human Resource Management,it  contains 12 microservices with Zuul gateway and an Eureka server ,our microservices are in one container docker and they are using api from each other .
 
-1/User Microservice
-2/Employees microservice
-3/Job microservice
-4/Attendance microservice
-5/Leave microservice
-6/Project microservice
-7/Client microservice
-8/Invoice microservice
-9/Claim microservice
-10/Department microservice
-11/Notification microservice
-10/Client satisfaction microservice
+1. User Microservice
+2. Employees microservice
+3. Job microservice
+4. Attendance microservice
+5. Leave microservice
+6. Project microservice
+7. Client microservice
+8. Invoice microservice
+9. Claim microservice
+10. Department microservice
+11. Notification microservice
+10. Client satisfaction microservice
 
-Description:
--User Microservice : manage user authentification and register
--Employees microservice : manage employees 
--Job microservice : manage posting jobs
--Attendance microservice : manage attendance for employees
--Leave microservice : manage leaves for employees
--Project microservice : manage projects for each client
--Client microservice :manage clients 
--Invoice microservice :manage invoices for the company
--claim microservice :manage claims 
--department microservice :manage departements
--Notification microservice :manage notification for admin
--Client satisfaction :manage clients satisfaction
+###### Description:
 
-
-  
+- User Microservice : manage user authentification and register
+- Employees microservice : manage employees 
+- Job microservice : manage posting jobs
+- Attendance microservice : manage attendance for employees
+- Leave microservice : manage leaves for employees
+- Project microservice : manage projects for each client
+- Client microservice :manage clients 
+- Invoice microservice :manage invoices for the company
+- claim microservice :manage claims 
+- Department microservice :manage departements
+- Notification microservice :manage notification for admin
+- Client satisfaction :manage clients satisfaction
