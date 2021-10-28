@@ -53,7 +53,7 @@ Our project is for Human Resource Management,it  contains 12 microservices with 
 - Eureka serveur : [![Maven & Docker CI](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/EUREKA-SERVER/actions/workflows/maven.yml/badge.svg)](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/EUREKA-SERVER/actions/workflows/maven.yml)
 - Zuul gateway : [![Maven & Docker CI](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/GATEWAY/actions/workflows/maven.yml/badge.svg)](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/GATEWAY/actions/workflows/maven.yml)
 ###### Sonar Cloud:
-![img.png](../screenshots/sonar-cloud.png)
+![img.png](sonar-cloud.png)
 ###### Github actions:
-![img_1.png](../screenshots/github-actions.png)
+![img_1.png](github-actions.png)
 
