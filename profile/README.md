@@ -1,7 +1,7 @@
 # ESPRIT-FGSC 
 ## MicroServices Spring Boot with docker
 A team of esprit students developing microservices for a project implementing an Odoo clone.
-## [@Using swagger for documentation](https://fgsc-gateway.herokuapp.com/swagger-ui.html#/)
+## [Using swagger for documentation](https://fgsc-gateway.herokuapp.com/swagger-ui.html#/)
 
 ## Authors
 
