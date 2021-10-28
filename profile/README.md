@@ -24,7 +24,7 @@ A team of esprit students developing microservices for a project implementing an
 
 Our project is for Human Resource Management,it  contains 12 microservices with Zuul gateway and an Eureka server ,our microservices are in one container docker and they are using api from each other .
 
-1. User Microservice
+1. Auth/User management Microservice
 2. Employees microservice
 3. Job microservice
 4. Attendance microservice
@@ -39,9 +39,9 @@ Our project is for Human Resource Management,it  contains 12 microservices with 
 
 ###### Description:
 
-- User Microservice : manage user authentification and register
+- Auth / Usermanagement  Microservice : manage user authentification and register [![Maven & Docker CI](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/AUTH-SERVICE/actions/workflows/maven.yml/badge.svg)](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/AUTH-SERVICE/actions/workflows/maven.yml)
 - Employees microservice : manage employees 
-- Job microservice : manage posting jobs
+- Job microservice : manage posting jobs 
 - Attendance microservice : manage attendance for employees
 - Leave microservice : manage leaves for employees
 - Project microservice : manage projects for each client
