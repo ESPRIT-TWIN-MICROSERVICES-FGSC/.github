@@ -49,8 +49,11 @@ Our project is for Human Resource Management,it  contains 12 microservices with 
 - Invoice microservice :manage invoices for the company
 - claim microservice :manage claims 
 - Department microservice :manage departements
-- Notification microservice :manage notification for admin
+- Client feedback acquisition : [![Maven & Docker CI](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/CUSTOMER-SATISFACTION/actions/workflows/maven.yml/badge.svg)](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/CUSTOMER-SATISFACTION/actions/workflows/maven.yml) [![CodeQL](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/CUSTOMER-SATISFACTION/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/CUSTOMER-SATISFACTION/actions/workflows/codeql-analysis.yml)
+- Notification microservice :manage notification for admin [![Maven & Docker CI](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/RSOCKET-BROKER/actions/workflows/maven.yml/badge.svg)](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/RSOCKET-BROKER/actions/workflows/maven.yml)v
 - Client satisfaction :manage clients satisfaction
+- Eureka serveur : [![Maven & Docker CI](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/EUREKA-SERVER/actions/workflows/maven.yml/badge.svg)](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/EUREKA-SERVER/actions/workflows/maven.yml)
+- Zuul gateway : [![Maven & Docker CI](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/GATEWAY/actions/workflows/maven.yml/badge.svg)](https://github.com/ESPRIT-TWIN-MICROSERVICES-FGSC/GATEWAY/actions/workflows/maven.yml)
 ###### Sonar Cloud:
 ![This is an image](![image](https://user-images.githubusercontent.com/61046136/139145915-e032588d-8e67-4d86-b963-61e009bb1e29.png))
 ###### Github actions:
