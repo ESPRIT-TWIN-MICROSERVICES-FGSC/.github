@@ -55,5 +55,5 @@ Our project is for Human Resource Management,it  contains 12 microservices with 
 ###### Sonar Cloud:
 ![img.png](../screenshots/sonar-cloud.png)
 ###### Github actions:
-![img_1.png](../screenshots/github-actions.png)![This is an image](![image](![image](https://user-images.githubusercontent.com/61046136/139146078-7a83dba1-5242-4637-9a85-96f603e98f98.png))
+![img_1.png](../screenshots/github-actions.png)
 
